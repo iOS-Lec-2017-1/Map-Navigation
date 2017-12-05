@@ -3,8 +3,7 @@
 //  nav
 //
 //  Created by Sebastian Hette on 31.01.2017.
-//  Copyright © 2017 MAGNUMIUM. All rights reserved.
-//
+
 
 import UIKit
 import MapKit
